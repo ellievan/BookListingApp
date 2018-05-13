@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OneBooksApp</string>
+    <string name="no_internet">No Internet</string>
+    <string name="no_books_found">No Books Found</string>
+    <string name="problem_http">Problem with HTTP Request</string>
+    <string name="instructions">Type Book title in the box below and press Submit</string>
+    <string name="submit">Submit</string>
+</resources>
